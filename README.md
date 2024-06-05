@@ -10,7 +10,7 @@ CRAIYON - Usada para a geração da imagem
 Descrevi o que eu buscava até chegar a um bom resultado
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://github.com/Maduzzi/lab-natty-or-not/blob/913920b1c191a80fba938114364795faf96b567d/craiyon_142010_a_cat_sleeping_in_a_bed.png
 
 
 ## 💭 Reflexão (Opcional)
